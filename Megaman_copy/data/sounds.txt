@@ -1,0 +1,8 @@
+6
+
+bluefireshooting data/bluefireshooting1.wav
+redeyeshooting data/redEyeEnemy.wav
+bgmusic data/bgmusic.wav
+robotRshooting data/robotRshooting.mp3
+megamanhurt data/megamanhurt.wav
+rocketsound data/rocketSound.wav
